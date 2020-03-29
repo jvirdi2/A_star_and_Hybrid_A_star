@@ -1,8 +1,6 @@
-"""
-Written by Tianqi Liu, 2020 Feb.
 
-It finds the optimal path for a car using Hybrid A* and bicycle model.
-"""
+
+# It finds the optimal path for a car using Hybrid A* and bicycle model.
 
 import copy
 import heapq as hq
